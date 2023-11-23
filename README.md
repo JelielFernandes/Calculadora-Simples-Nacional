@@ -1,6 +1,9 @@
 # Calculadora do Simples Nacional 
 
-![Logo]()
+<img src="IMAGES/SIMPLES-NACIONAL.png" alt="Simple-Nacional" width="400" height="100">
+
+
+
 
 Esta é uma aplicação de console simples em C# que calcula o valor a ser recolhido no Simples Nacional com base na receita bruta total (RBT12), alíquota e parcela dedutível.
 
