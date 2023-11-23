@@ -8,7 +8,7 @@ Esta é uma aplicação de console simples em C# que desenvolvi durante minha at
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/calculadora-simples-nacional-csharp.git
+   git clone https://github.com/seu-usuario/Calculadora-Simples-Nacional.git
 
 2. Navegue até o diretório do projeto:
    
