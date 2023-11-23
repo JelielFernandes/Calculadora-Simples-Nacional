@@ -13,7 +13,7 @@ Esta é uma aplicação de console simples em C# que desenvolvi durante minha at
 2. Navegue até o diretório do projeto:
    
    ```bash
-   cd calculadora-simples-nacional-csharp
+   cd Calculadora-Simples-Nacional
 
 3. Execute o projeto:
 
