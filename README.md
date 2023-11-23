@@ -2,7 +2,7 @@
 
 <img src="IMAGES/SIMPLES-NACIONAL.png" alt="Simple-Nacional" width="400" height="100">
 
-Esta é uma aplicação de console simples em C# que desenvolvi durante minha atuação como auxiliar de contabilidade. Ela calcula o valor a ser recolhido no Simples Nacional, utilizando a receita bruta total (RBT12), alíquota e parcela dedutível.
+Esta é uma aplicação de console simples em C# que desenvolvi durante minha atuação como auxiliar de contabilidade. Ela calcula o valor a ser recolhido no Simples Nacional, utilizando a receita bruta total (RBT12), alíquota e parcela dedutível. Desenvolvida para facilitar cálculos contábeis, a aplicação é uma ferramenta eficiente para auxiliares de contabilidade e profissionais que lidam com tributação simplificada.
 ## Como Usar
 
 1. Clone o repositório:
